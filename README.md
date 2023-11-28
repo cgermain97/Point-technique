@@ -1,0 +1,1 @@
+Tests fait dans le cadre du point technique.
